@@ -1,0 +1,8 @@
+the html code to get the basic web page is 
+<html>
+  <head><title>first page</title>
+  </head>
+  <body>
+    <h1>welcome to the page</h1>
+  </body>
+</html>
